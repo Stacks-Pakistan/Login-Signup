@@ -1,0 +1,6 @@
+[project]
+name = "AuthApp"
+requirements = []
+[contracts.Auth]
+path = "contracts/Auth.clar"
+depends_on = []
